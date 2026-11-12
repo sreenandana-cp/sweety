@@ -100,7 +100,7 @@ Runs 7 API tests (auth, all validation rules, report calculations). The database
 - Move the API URL to an environment variable
 ## Screenshots
 
-![Readings](screenshots/readings.jpg)
+
 
 ![Reports](screenshots/reports.jpg)
 
