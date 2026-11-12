@@ -103,3 +103,7 @@ Runs 7 API tests (auth, all validation rules, report calculations). The database
 ![Readings](screenshots/readings.jpg)
 
 ![Reports](screenshots/reports.jpg)
+
+## Demo video
+
+https://YOUR_VIDEO_LINK
