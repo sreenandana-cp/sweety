@@ -1,0 +1,27 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #f3f6fb; color: #1f2937; }
+.card { max-width: 380px; margin: 60px auto; background: white; padding: 28px; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+h1 { margin: 0 0 4px; }
+.muted { color: #6b7280; font-size: 14px; }
+form { display: flex; flex-direction: column; gap: 12px; margin: 18px 0; }
+input, select { padding: 10px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 15px; }
+button { padding: 10px; border: none; border-radius: 8px; background: #2563eb; color: white; font-size: 15px; cursor: pointer; }
+button:hover { background: #1d4ed8; }
+.error { color: #dc2626; font-size: 14px; margin: 0; }
+.wide { max-width: 640px; }
+h2 { font-size: 18px; margin: 22px 0 8px; }
+.row { display: flex; gap: 8px; }
+.between { justify-content: space-between; align-items: center; }
+.secondary { background: #e5e7eb; color: #1f2937; }
+.secondary:hover { background: #d1d5db; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 10px 6px; border-bottom: 1px solid #e5e7eb; font-size: 15px; }
+.actions { text-align: right; white-space: nowrap; }
+.small { padding: 5px 10px; font-size: 13px; }
+.danger { background: #dc2626; }
+.danger:hover { background: #b91c1c; }
+.report { border: 1px solid #e5e7eb; border-radius: 10px; padding: 14px; margin-bottom: 12px; }
+.report h3 { margin: 0; font-size: 16px; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-top: 10px; text-align: center; }
+.stats strong { display: block; font-size: 20px; }
+.stats span { font-size: 12px; color: #6b7280; }
+.slotlist { margin: 12px 0 0; padding-left: 18px; font-size: 14px; }
